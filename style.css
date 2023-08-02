@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(green,rgb(255, 147, 253),blue);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    margin-left: 150px;
+    background-color: aqua;
+    color: black;
+    font-size: 19px;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
